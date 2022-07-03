@@ -1,6 +1,6 @@
 package Hw1;
 
-public class OOP {
+public class OOP_2 {
     public static void main(String[] args) {
         /*
         Phone p1 = new Phone("+375291231231", "Iphone X", 100);
