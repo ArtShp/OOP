@@ -1,6 +1,6 @@
 package Lesson2;
 
-public class OOP {
+public class OOP_1 {
     public static void main(String[] args) {
         //Задание 1,2.
         /*
